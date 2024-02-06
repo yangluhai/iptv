@@ -2,8 +2,6 @@
 #央视高清/22个频道
 #EXTINF:-1 tvg-id="A01" tvg-name="CCTV1" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV1.png" group-title="央视",CCTV-1 综合
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001331/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="A01" tvg-name="CCTV1" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV1.png" group-title="央视",CCTV-1 综合
-http://223.110.236.8/ott.js.chinamobile.com/PLTV/3/224/3221228149/index.m3u8
 #EXTINF:-1 tvg-id="A02" tvg-name="CCTV2" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV2.png" group-title="央视",CCTV-2 财经
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001332/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="A03" tvg-name="CCTV3" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV3.png" group-title="央视",CCTV-3 综艺
@@ -459,3 +457,13 @@ http://223.110.235.25/ott.js.chinamobile.com/PLTV/3/224/3221228209/index.m3u8
 http://223.110.236.26/ott.js.chinamobile.com/PLTV/3/224/3221228212/index.m3u8
 #EXTINF:-1 tvg-id="taizhou" tvg-name="泰州-3" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/t.png" group-title="泰州",泰州-3
 http://223.110.235.20/ott.js.chinamobile.com/PLTV/3/224/3221228100/index.m3u8
+
+#少儿卡通/4个频道
+#EXTINF:-1 tvg-id="kt" tvg-name="金鹰卡通" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/t.png" group-title="少儿卡通",金鹰卡通
+http://223.110.241.203:6610/gitv/live1/G_JINYING/G_JINYING/?IASHttpSessionId=OTT2055420190407015529005659
+#EXTINF:-1 tvg-id="kt" tvg-name="嘉佳卡通" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/t.png" group-title="少儿卡通",嘉佳卡通
+http://223.110.241.139:6610/gitv/live1/G_JIAJIA/G_JIAJIA/
+#EXTINF:-1 tvg-id="kt" tvg-name="卡酷少儿" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/t.png" group-title="少儿卡通",卡酷少儿
+http://223.110.241.139:6610/gitv/live1/G_KAKU/G_KAKU/
+#EXTINF:-1 tvg-id="kt" tvg-name="优漫卡通" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/t.png" group-title="少儿卡通",优漫卡通
+http://223.110.241.139:6610/gitv/live1/G_YOUMAN/G_YOUMAN/
