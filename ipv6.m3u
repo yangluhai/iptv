@@ -359,6 +359,24 @@ http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/322
 #EXTINF:-1 tvg-id="N25" tvg-name="NewTV超级电视剧" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NewTV25.png" group-title="NewTV",NewTV超级电视剧
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
 
+#泰州/3个频道
+#EXTINF:-1 tvg-id="taizhou" tvg-name="泰州-1" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/t.png" group-title="泰州",泰州-1
+http://223.110.235.25/ott.js.chinamobile.com/PLTV/3/224/3221228209/index.m3u8
+#EXTINF:-1 tvg-id="taizhou" tvg-name="泰州-2" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/t.png" group-title="泰州",泰州-2
+http://223.110.236.26/ott.js.chinamobile.com/PLTV/3/224/3221228212/index.m3u8
+#EXTINF:-1 tvg-id="taizhou" tvg-name="泰州-3" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/t.png" group-title="泰州",泰州-3
+http://223.110.235.20/ott.js.chinamobile.com/PLTV/3/224/3221228100/index.m3u8
+
+#少儿卡通/4个频道
+#EXTINF:-1 tvg-id="kt" tvg-name="金鹰卡通" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/t.png" group-title="少儿卡通",金鹰卡通
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6000057BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTWDyIgRkFJBAHMhA2ayG0T0ZQXwaiVktPr6ILPKXqwOw2VoxnxHvBSRSzCCC3szSwIgrD0rUpRXeaqChwLXCf0
+#EXTINF:-1 tvg-id="kt" tvg-name="嘉佳卡通" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/t.png" group-title="少儿卡通",嘉佳卡通
+http://223.110.241.139:6610/gitv/live1/G_JIAJIA/G_JIAJIA/
+#EXTINF:-1 tvg-id="kt" tvg-name="卡酷少儿" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/t.png" group-title="少儿卡通",卡酷少儿
+http://223.110.241.139:6610/gitv/live1/G_KAKU/G_KAKU/
+#EXTINF:-1 tvg-id="kt" tvg-name="优漫卡通" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/t.png" group-title="少儿卡通",优漫卡通
+http://223.110.241.139:6610/gitv/live1/G_YOUMAN/G_YOUMAN/
+
 
 #咪咕体育/44个频道
 #EXTINF:-1 tvg-id="migu" tvg-name="咪咕直播" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png" group-title="咪咕",咪咕直播4K-1
@@ -450,20 +468,4 @@ http://[2409:8087:1a01:df::4041]/PLTV/88888888/224/3221226053/index.m3u8
 #EXTINF:-1 tvg-id="migu" tvg-name="咪咕直播" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png" group-title="咪咕",咪咕直播-42
 http://[2409:8087:1a01:df::404d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
 
-#泰州/3个频道
-#EXTINF:-1 tvg-id="taizhou" tvg-name="泰州-1" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/t.png" group-title="泰州",泰州-1
-http://223.110.235.25/ott.js.chinamobile.com/PLTV/3/224/3221228209/index.m3u8
-#EXTINF:-1 tvg-id="taizhou" tvg-name="泰州-2" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/t.png" group-title="泰州",泰州-2
-http://223.110.236.26/ott.js.chinamobile.com/PLTV/3/224/3221228212/index.m3u8
-#EXTINF:-1 tvg-id="taizhou" tvg-name="泰州-3" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/t.png" group-title="泰州",泰州-3
-http://223.110.235.20/ott.js.chinamobile.com/PLTV/3/224/3221228100/index.m3u8
 
-#少儿卡通/4个频道
-#EXTINF:-1 tvg-id="kt" tvg-name="金鹰卡通" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/t.png" group-title="少儿卡通",金鹰卡通
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6000057BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTWDyIgRkFJBAHMhA2ayG0T0ZQXwaiVktPr6ILPKXqwOw2VoxnxHvBSRSzCCC3szSwIgrD0rUpRXeaqChwLXCf0
-#EXTINF:-1 tvg-id="kt" tvg-name="嘉佳卡通" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/t.png" group-title="少儿卡通",嘉佳卡通
-http://223.110.241.139:6610/gitv/live1/G_JIAJIA/G_JIAJIA/
-#EXTINF:-1 tvg-id="kt" tvg-name="卡酷少儿" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/t.png" group-title="少儿卡通",卡酷少儿
-http://223.110.241.139:6610/gitv/live1/G_KAKU/G_KAKU/
-#EXTINF:-1 tvg-id="kt" tvg-name="优漫卡通" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/t.png" group-title="少儿卡通",优漫卡通
-http://223.110.241.139:6610/gitv/live1/G_YOUMAN/G_YOUMAN/
