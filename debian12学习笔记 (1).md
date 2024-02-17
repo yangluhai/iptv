@@ -549,7 +549,7 @@ sudo docker run -it --name samba -m 512m -p 139:139 -p 445:445 \
     --restart always \
     -v /share:/mount \
     -d dperson/samba -p \
-    -u "yangluhai;Ylh403475" \
+    -u "yangluhai;123456" \
     -g "aio read size = 0" \
     -g "aio write size = 0" \
     -r -s "share;/mount/;yes;no;no;all;yangluhai"
